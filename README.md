@@ -1,1 +1,1 @@
-# JavaServlets-WebApp
+# Java Servlet Projects Collection
